@@ -1,4 +1,6 @@
-<h1 align="center">💻 Frontend Developer</h1>
+<h1 align="center">Hi, I'm Ramazan</h1>
+<h1 align="center">I am from Dagestan</h1>
+<h1 align="center">Frontend Developer</h1>
 
 ---
 
